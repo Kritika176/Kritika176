@@ -18,7 +18,7 @@ Hello, I'm Kritika  👩🏻‍🦰
 <br></br>
 
 ### 🖥️ Technologies and Skills
--------
+------
 
 <div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
