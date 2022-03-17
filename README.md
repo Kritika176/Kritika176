@@ -12,9 +12,9 @@ Hello, I'm Kritika  👩🏻‍🦰
 ## About
  <div style="margin-top:30px">
 
- I'm a full-stack web developer with a passion for coding💻.I've worked on cloning websites using HTML, CSS, and JavaScript. Express, Node.js, and MongoDB were all used in a few of the projects I worked on.
+ **I'm a full-stack web developer with a passion for coding💻.I've worked on cloning websites using HTML, CSS, and JavaScript. Express, Node.js, and MongoDB were all used in a few of the projects I worked on.**
 
-  I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better.
+ **I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better.**
 <div>
 <br></br>
 
@@ -33,10 +33,10 @@ Hello, I'm Kritika  👩🏻‍🦰
 </div>
 
 <br></br>
-  * 📚 Now, I'm currently learning React ;
-  * 📷I am passionate about Web Dev & I enjoy learning new things.!
-  * 🎮 I like cycling and travelling ;
-  * 📫 How to reach me **kritikash944@gmail.com**
+  * 📚 **Now, I'm currently learning React ;**
+  * 📷**I am passionate about Web Dev & I enjoy learning new things.!**
+  * 🎮 **I like cycling and travelling ;**
+  * 📫 **How to reach me **kritikash944@gmail.com****
 
 
 <br></br>
