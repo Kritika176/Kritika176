@@ -49,4 +49,4 @@ Hello, I'm Kritika  👩🏻‍🦰
 
  
 
-[Site]: https://dev.camilaloliveira.com.br/
+
