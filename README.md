@@ -10,8 +10,9 @@ Hello, I'm Kritika  👩🏻‍🦰
 -------
 
 ## About
-<div>
-  I'm a full-stack web developer with a passion for coding💻.I've worked on cloning websites using HTML, CSS, and JavaScript. Express, Node.js, and MongoDB were all used in a      few of the projects I worked on.
+ <div style="margin-top:30px">
+
+ I'm a full-stack web developer with a passion for coding💻.I've worked on cloning websites using HTML, CSS, and JavaScript. Express, Node.js, and MongoDB were all used in a few of the projects I worked on.
 
   I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better.
 <div>
