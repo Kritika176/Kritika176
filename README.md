@@ -30,6 +30,11 @@ Hello, I'm Kritika  👩🏻‍🦰
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/96097268/159109713-e5ccdaeb-d9f7-49e7-847b-dda0098cb2dc.svg" alt="Git" height="50" />  
+ 
+
+ 
+ 
 </div>
 
 <br></br>
